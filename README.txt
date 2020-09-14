@@ -1,5 +1,3 @@
-Race Cars
-
 PART I
 Construct a calling class and a Car class as follows:
 Car Class:
